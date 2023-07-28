@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_options">
+        <item>Activity2</item>
+        <item>Activity3</item>
+    </string-array>
+</resources>
